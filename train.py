@@ -1,5 +1,6 @@
 from ultralytics import YOLO
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     model = YOLO("yolo11n.pt")
     model.train(
         data="data.yaml",
@@ -33,5 +34,5 @@ if __name__ == '__main__':
         freeze=10,
         workers=4,
         project="runs/train",
-        name="exp"
+        name="exp",
     )
