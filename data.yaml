@@ -1,0 +1,8 @@
+names:
+- faya
+- hao
+nc: 2
+
+test: "D:/Computer_Vision/ultralytics-main/data/val/images"
+train: "D:/Computer_Vision/ultralytics-main/data/train/images"
+val: "D:/Computer_Vision/ultralytics-main/data/val/images"
