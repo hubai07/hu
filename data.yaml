@@ -1,6 +1,6 @@
 names:
-- faya
-- hao
+  - faya
+  - hao
 nc: 2
 
 test: "D:/Computer_Vision/ultralytics-main/data/val/images"
